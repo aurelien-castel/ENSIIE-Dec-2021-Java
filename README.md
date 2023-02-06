@@ -1,6 +1,6 @@
 # ENSIIE-Dec-2021-Java
 
-Projet en Java avec application de méthode de cycle en V 
+Projet en Java avec application de méthode de cycle en V.
 
 Groupe:
 - Castel Aurélien
